@@ -1,7 +1,7 @@
 <!-- Encabezado con banner -->
 <div align="center" style="position: relative;">
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a74da,100:67e8f9&height=180&section=header&text=Bertha%20Garrastacho&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="banner" style="width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a74da,100:67e8f9&height=180&section=header&text=Bertha%20I.&Garrastacho&Reyes&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="banner" style="width: 100%;"/>
 </div>
 <p align="center">
   <em>Software Engineer · Frontend Developer · Angular & React · Ex docente de desarrollo web</em>
