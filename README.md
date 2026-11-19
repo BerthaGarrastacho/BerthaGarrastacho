@@ -1,10 +1,10 @@
 <!-- Encabezado con banner -->
 <div align="center" style="position: relative;">
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a74da,100:67e8f9&height=180&section=header&text=Bertha%20I.&Garrastacho&Reyes&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="banner" style="width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a74da,100:67e8f9&height=180&section=header&text=Bertha%20I.%20Garrastacho%20Reyes&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="banner" style="width: 100%;"/>
 </div>
 <p align="center">
-  <em>Software Engineer · Frontend Developer · Angular & React · Ex docente de desarrollo web</em>
+  <em>Software Engineer · Frontend Developer · Angular & React · Docente de desarrollo de Aplicaciones Webs </em>
 </p>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
@@ -37,7 +37,7 @@
 
   <div style="padding: 20px; border-radius: 10px; background: white; box-shadow: 0 0 15px rgba(103, 232, 249, 0.3);">
     <h3>🔍 Explora mi trabajo</h3>
-    <p>Encuentra todos mis repositorios en <a href="https://github.com/BibisGr?tab=repositories">github.com/BibisGr</a></p>
+    <p>Encuentra todos mis repositorios en <a href="https://github.com/BerthaGarrastacho?tab=repositories">github.com/BerthaGarrastacho</a></p>
   </div>
 </div>
 
@@ -91,13 +91,13 @@ Diseño de software de instrumentación virtual para adquisición y control de d
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BibisGr&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BerthaGarrastacho&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BibisGr&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerthaGarrastacho&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BibisGr&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BerthaGarrastacho&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad" />
 </p>
 
 ## 🌐 Conecta conmigo
@@ -108,12 +108,12 @@ Diseño de software de instrumentación virtual para adquisición y control de d
 [linkedin.com/in/berthagarrastacho](https://www.linkedin.com/in/berthagarrastacho)
 
 🧩 **GitHub:**
-[github.com/BibisGr](https://github.com/BibisGr)
+[github.com/BibisGr](https://github.com/BerthaGarrastacho)
 
 ## 👀 Contador de visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BibisGr&label=Visitas%20al%20perfil&color=0a74da&style=flat-square" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=BerthaGarrastacho&label=Visitas%20al%20perfil&color=0a74da&style=flat-square" alt="Contador de visitas" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67e8f9,100:0a74da&height=120&section=footer" alt="footer" />
